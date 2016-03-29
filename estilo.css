@@ -1,4 +1,50 @@
-body {
-		color:red;
-		background: blue;
-	}
+/* Etiquetas */
+
+div {
+}
+
+p {
+  color: green;
+}
+
+a {
+  width: 100px;
+  height: 50px;
+  background: #71BA51;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Arial;
+  border-radius: 5px;
+}
+
+a:hover {
+  background: #2CC990;
+}
+
+/* Clases */
+
+.naranja {
+  color: white;
+  background: orange;
+  width: 200px;
+  height: 80px;
+}
+
+.contenido {
+  width: 500px;
+  margin: 0 auto;
+  border: 1px solid orange;
+}
+
+.cabecera {
+  padding: 15px;
+  margin: 20px;
+  margin-left: 5px;
+}
+
+.footer {
+  background: green;
+  padding: 5px;
+}
